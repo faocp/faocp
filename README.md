@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... nothing at the moment. I'm just here to learn!
 - 📫 How to reach me ... hi@fffelipe.com
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... you're looking at it *ba dum tss*
+- ⚡ Fun fact: ... you're looking at it – *ba dum tss*
 
 <!---
 faocp/faocp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
